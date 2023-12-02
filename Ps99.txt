@@ -1,0 +1,29 @@
+All Pet Simulator 99 Machines or Obbys/MiniGames!
+
+Zone #4 Green Forest: Pet Equip Machine
+Zone #5 Autumn: Classic Obby
+Zone #8 Backyard: Egg Machine
+Zone #9 Misty Falls: Enchant Machine #1
+Zone #10 Mine: Golden Machine
+Zone #11 Crystal Caverns: Minefield Obby
+Zone #13 Dark Forest: Upgrade Potion Machine
+Zone #14 Mushroom Field: Fruit Machine #1
+Zone #16 Crimson Forest: Upgrade Enchant Machine
+Zone #18 Jungle Temple: Jungle Obby
+Zone #20 Beach: Daycare Machine
+Zone #23 Atlantis: Atlantis Obby
+Zone #25 Tiki: Rebirth One
+Zone #26 Pirate Cove: Fruits #2 Machine
+Zone #27 Pirate Tavern: Fishing Minigame
+Zone #28 Shanty Town: Fusing Machine
+Zone #30 Fossil Digsite: Digsite Minigame
+Zone #31 Desert Pryamids: Pyramid Obby
+Zone #31 Desert Pyramid: Rainbow Machine
+Zone #35 Safari: Potions #2 Machine
+Zone #40 Ski Town: Sled Race
+Zone #42 Fire and Ice: Enchant Machine #2
+Zone #45 Lava Forest: Chest Rush Minigame
+Zone #47 Underworld Bridge: Rare Potions Machine
+Zone #50 Fire Dojo: Rebirth #2
+
+Made by: AngelGamingBTW
